@@ -29,3 +29,5 @@ Understand employee distribution
 Explore compensation fairness
 
 Support strategic HR planning
+
+Example:[Dashboard Review](https://github.com/PriyanshiKumrawat/Power-BI-/commit/4d9ae1ded355d2fbf7f3729793518b88f917809b)
