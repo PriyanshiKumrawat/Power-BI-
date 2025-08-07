@@ -30,4 +30,4 @@ Explore compensation fairness
 
 Support strategic HR planning
 
-Example:[Dashboard Review](https://github.com/PriyanshiKumrawat/Power-BI-/commit/4d9ae1ded355d2fbf7f3729793518b88f917809b)
+Example:[Dashboard Review](https://github.com/PriyanshiKumrawat/Power-BI-Excel-Project-1/commit/eb92a660be45a0c2bdd97ce1b0810297895934a4)
